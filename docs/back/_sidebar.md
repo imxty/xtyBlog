@@ -13,4 +13,4 @@
 * [spring注解原理](/back/spring注解原理)
 * [安全框架shiro](/back/安全框架shiro)
 * [并发](/back/并发)
-* [返回上一级](../)
+* [返回上一级](/_sidebar)
